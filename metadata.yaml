@@ -1,0 +1,27 @@
+_repo: Saint-Dominique_74569
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guiraud, Jean
+    gutenberg_agent_id: '57560'
+    url: http://www.gutenberg.org/2009/agents/57560
+description: ''
+gutenberg_issued: '2024-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74569'
+language: fr
+pgterms:marc904: https://archive.org/details/saintdominique00guir
+pgterms:marc905: 20231224001834guiraud
+pgterms:marc906: '1899'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aParis :$bVictor Lecoffre, $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Saint Dominique
+url: http://www.gutenberg.org/ebooks/74569
